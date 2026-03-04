@@ -2,6 +2,8 @@
 
 A collection of beautiful authentication UI templates built with React and Tailwind CSS. Feel free to explore, customize, and use in your own projects.
 
+**GitHub Repository:** https://github.com/ArpanCodeX/Auth-Ui.git
+
 ## Getting started
 
 1. **Clone the repository**
